@@ -28,7 +28,8 @@ The analysis includes:
 ## Dataset
 
 Instacart Market Basket Analysis  
-https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
+The data can be found here: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
+## Requirements
 
 Make sure to download the following CSVs and place them in your working directory:
 
@@ -37,8 +38,6 @@ Make sure to download the following CSVs and place them in your working director
 - `departments.csv`
 - `aisles.csv`
 - `order_products_prior.csv`
-The data can be found here: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
-## Requirements
 
 ```bash
 pip install pandas matplotlib scipy
