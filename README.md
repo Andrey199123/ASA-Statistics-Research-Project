@@ -1,4 +1,6 @@
-# Instacart Order Behavior Analysis
+# American Statistical Association Statistics Project
+
+## Instacart Order Behavior Analysis
 
 An exploratory Python analysis of order-hour patterns across departments in the Instacart Market Basket Analysis dataset. The scripts summarize order hours, visualize department and aisle patterns, and compute a Kruskal–Wallis H-test. This is an observational student project, not a validated pricing model.
 
