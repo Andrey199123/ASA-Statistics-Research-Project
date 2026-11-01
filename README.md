@@ -13,7 +13,7 @@ An exploratory Python analysis of order-hour patterns across departments in the 
 
 ![Total order counts by hour](Images/Total_Order_By_Hour.png)
 
-![Mean order hour overall and by department](Images/Mean_Order_Hour.png)
+![Order frequency by department](Images/visualize.png)
 
 These figures show the descriptive patterns explored in the project. They are not evidence of price sensitivity or causal effects.
 
