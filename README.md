@@ -15,7 +15,6 @@ An exploratory Python analysis of order-hour patterns across departments in the 
 
 ![Order frequency by department](Images/visualize.png)
 
-These figures show the descriptive patterns explored in the project.
 
 ## Statistical Methodology
 
